@@ -1,11 +1,11 @@
 PERSONAL PORTFOLIO 👨🏻‍💼
 
+
+
 Technologies used 🛠️: 
 
 HTML
-
 CSS
-
 JS
 
 Screenshots:
