@@ -59,7 +59,8 @@ a:hover {
 }
 
 .logo {
-  font-size: 2rem;
+  font-size: 2.5rem;
+  color:rgb(85, 85, 85);
 }
 
 .logo:hover {
@@ -177,7 +178,10 @@ section {
 }
 
 .section__pic-container img{
-    border-radius: 10%;
+  height: 300px;
+  width: auto;
+  border-radius: 10%;
+  margin-top: 50px;
 }
 
 .section__text {
@@ -434,3 +438,4 @@ footer {
 footer p {
   text-align: center;
 }
+
